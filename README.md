@@ -1,5 +1,7 @@
 # location-map
 
+![captura de pantalla app en Vue 3 mapa leaflet y drag and  drop](https://github.com/NeelBit/location-map/blob/master/cap-gif-location-map.gif)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
